@@ -1,0 +1,2 @@
+subscribers  --> channel = chai and code
+channels -->   subs == a , b ,c
